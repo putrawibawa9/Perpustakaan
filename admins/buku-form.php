@@ -77,7 +77,7 @@ if(isset($_POST['submit'])){
                 <input type="file" name="gambar" class="form-control">
             </div>
 
-            <a href="tari.php" class="btn btn-success" >Kembali</a>
+            <a href="buku.php" class="btn btn-success" >Kembali</a>
             <button type="submit" class="btn btn-primary" name="submit" >Simpan</button>
         </form>
     </div>
